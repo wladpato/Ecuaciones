@@ -2,3 +2,4 @@ streamlit
 plotly
 openpyxl
 matplotlib
+PyInstaller
